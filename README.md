@@ -118,6 +118,3 @@ Integration with wearable devices for passive mood detection
 
 
 
----
-
-Would you like me to turn this into a formatted PDF or presentation file as well?
